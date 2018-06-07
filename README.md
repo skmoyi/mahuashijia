@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # mahuashijia
 
 > A Vue.js project
